@@ -52,7 +52,7 @@ The workshop will be presented by Evelyn Ansell and is an outcome of her Career 
 
 **Where**: University of Queensland, Chamberlain Building 35, Room 104
 
-[Details](/transcript-workshop.pdf)
+[Details](../WorkshopAnsell.pdf)
 
 #### A hands-on guide to Semantic Tagger for your text data analysis
 
