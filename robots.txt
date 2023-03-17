@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://www.ldaca.edu.au/sitemap.xml
+Sitemap: https://www.atap.edu.au/sitemap.xml
