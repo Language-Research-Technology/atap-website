@@ -38,16 +38,6 @@ Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Australian Text Analytics Platform tools: Discursis, Juxtorpus, Quotation tool and Semantic tagger
-
-The [ARDC](https://www.ardc.edu.au) HASS Research Data Commons projects, ATAP and [LDaCA](https://www.ldaca.edu.au), aim to establish cloud-based, collaborative, data-driven research platforms with generalised workflows for text and language researchers across diverse research disciplines. The Sydney Informatics Hub (SIH) and Sydney Corpus Lab (SCL) are partners in these national projects and have developed a series of text analytic tools in the form of online Jupyter Notebooks.
-
-During the afternoon session of the USyd Digital Humanities Day 2023 ([morning session](https://usyd.libcal.com/event/5526162)), the SIH will host a combined workshop to demonstrate and teach several recently or soon-to-be-released tools from the ATAP text analytic tool collection. These tools include Discursis for analysing human conversational texts, Juxtorpus for advanced corpus slicing and comparison, Semantic Tagger for semantically tagging every word in your text collections, and Quotation Tool for NLP algorithm-based quotation extraction, analysis, and visualisation. All tools will be hosted on the cloud and no coding experience or software installation is required. Participants just need to bring their devices for some hands-on practice in the web browser and can continue using these convenient tools for their own projects afterwards.
-
-**When**: Tuesday 14 March 2023, 1:00PM - 4:00PM<br>
-**Where**: University of Sydney, Fisher Interactive Learning Space (209)<br>
-[Details and Registration](https://usyd.libcal.com/event/5527942)
-
 #### Jefferson Transcript Search Tool
 
 The Search Tool project uses programming to explore how to easily search and manipulate transcripts without the need to 'clean' the transcript. A browser-based tool has been developed, designed to be used by researchers unfamiliar with programming.
@@ -58,9 +48,21 @@ You won't need any technical knowledge to enjoy this workshop, but familiarity w
 
 The workshop will be presented by Evelyn Ansell and is an outcome of her Career Development placement with Australia's Academic and Research Network ([AARNET](https://www.aarnet.edu.au/)). The Jupyter Notebook tool and this workshop have been developed during that placement.
 
-**When**: Friday 17 March 2023, 1:30PM - 3:30PM (AEST)<br>
-**Where**: University of Queensland, Chamberlain Building 35, Room 104<br>
+**When**: Friday 17 March 2023, 1:30PM - 3:30PM (AEST)
+
+**Where**: University of Queensland, Chamberlain Building 35, Room 104
+
 [Details](/transcript-workshop.pdf)
+
+#### A hands-on guide to Semantic Tagger for your text data analysis
+
+The Australian Text Analytics Platform (ATAP) project is a project that aims to provide researchers with the tools and training for analysing, processing, and exploring text. As part of this project, we have adapted with permission, a Semantic Tagger, developed by the University Centre for Computer Corpus Research on Language ([UCREL](https://ucrel.lancs.ac.uk/)) at Lancaster University. This tool uses the Python Multilingual UCREL Semantic Analysis System ([PyMUSAS](https://pypi.org/project/pymusas/)) to tag your text data so that you can extract token level semantic tags from your text. In addition to the USAS tags, this tool can also recognize Multi Word Expressions (MWE), i.e., expressions formed by two or more words that behave like a unit such as 'South Australia', and identifies lemmas and Part-of-Speech (POS) tags in the text. For example, in the sentence ‘President Joe Biden attended two meetings today’, the tool will tag each token with its semantic tag like this -> ‘President Joe Biden’: MWE of [Personal names], ‘attended’: [Participating], ‘two’: [Number], ‘meetings’: [Participating] and ‘today’: [Time: Present; simultaneous]. This tool is available in both English and multi-lingual (Chinese, Italian and Spanish) versions and supports saving the results locally for further analysis, enabling you to gain meaningful insights into your research questions.
+
+**When**: Wednesday 22 March 2023, 3:00PM - 4:30PM (AEDT)
+
+**Where**: Online
+
+[Details and Registration](https://www.eventbrite.com.au/e/a-hands-on-guide-to-semantic-tagger-for-your-text-data-analysis-tickets-532683038307)
 
 ### Office Hours {#office-hours}
 

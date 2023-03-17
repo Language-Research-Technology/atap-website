@@ -6,6 +6,18 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### Australian Text Analytics Platform tools: Discursis, Juxtorpus, Quotation tool and Semantic tagger
+
+This workshop was part of the USyd Digital Humanities Day 2023.
+
+The workshop demonstrated and taught several recently or soon-to-be-released tools from the ATAP text analytic tool collection. These tools include Discursis for analysing human conversational texts, Juxtorpus for advanced corpus slicing and comparison, Semantic Tagger for semantically tagging every word in your text collections, and Quotation Tool for NLP algorithm-based quotation extraction, analysis, and visualisation.
+
+**Date**: Tuesday 14 March 2023
+
+**Length**: 3 hours
+
+**Facilitators**: Staff of the Sydney Informatics Hub
+
 #### HASS Research Data Commons and IRC Computational Skills Summer School
 
 The Australian Research Data Commons ([ARDC](https://www.ardc.edu.au)) through the HASS Research Data Commons and Indigenous Research Capability (HASS RDC and IRC Program) offered a Computational Skills Summer School in Sydney, February 7 and 8, 2023.
