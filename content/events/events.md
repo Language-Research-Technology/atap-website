@@ -38,31 +38,36 @@ Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Jefferson Transcript Search Tool
+#### Workshop on Language Corpora in Australia
 
-The Search Tool project uses programming to explore how to easily search and manipulate transcripts without the need to 'clean' the transcript. A browser-based tool has been developed, designed to be used by researchers unfamiliar with programming.
+Over decades of work in Australia, significant collections of language data have been amassed, including of varieties of Australian English, Australian migrant languages, Australian Indigenous languages, sign languages and others. These collections represent a trove of knowledge not only of language in Australia, but also of Australia’s social and cultural history. And yet, not all are well known and many lack published descriptions. The purpose of this workshop is to provide an opportunity to share information about existing language corpora in Australia, with a view to producing a special issue of the _Australian Journal of Linguistics_ that introduces a selection of these corpora, explores how they can contribute to our understanding of language, society, and history in Australia, and considers avenues that such corpora open up for future research.
 
-The workshop will include a presentation about the process of development, and an interactive technical demonstration where you will be able to use the tool with a transcript of your own. After using the tool, there will be a facilitated discussion about future work on the tool and implications for using the tool as part of analytic workflow, particularly for collections-building.
+This workshop is being run as part of the Language Data Commons of Australia ([LDaCA](https://www.ldaca.edu.au/)), which is working to build national research infrastructure for the Humanities and Social Sciences, facilitating access to and use of digital language corpora for linguists, scholars across the Humanities and Social Sciences, and non-academics.
 
-You won't need any technical knowledge to enjoy this workshop, but familiarity with basic computer usage will be helpful. It is intended for [Ethnomethodology / Conversation Analysis](https://en.wikipedia.org/wiki/Conversation_analysis) practitioners familiar with [Jefferson](https://en.wikipedia.org/wiki/Gail_Jefferson) transcripts, however anyone with an interest is welcome.
+**Abstract submission**
 
-The workshop will be presented by Evelyn Ansell and is an outcome of her Career Development placement with Australia's Academic and Research Network ([AARNET](https://www.aarnet.edu.au/)). The Jupyter Notebook tool and this workshop have been developed during that placement.
+For a 20 min presentation, please submit a 250-300 word abstract in English (excluding references). The presentation should include the following information:
 
-**When**: Friday 17 March 2023, 1:30PM - 3:30PM (AEST)
+- Speech community/fieldsite: Describe the location of the community and/or their brief history in Australia, the languages spoken and their current status.
+- Corpus design principles: Specify the sample size, sociolinguistic background of the participants, method of data collection and/or genre (e.g. sociolinguistic interviews, natural conversations, oral histories, elicited data, etc.); data format (written/spoken/audio/video, etc.) and where it is stored.
+- Corpus findings and implications: Summarise some key findings from the corpus and discuss other insights that might be obtained from the data in current or future work.
 
-**Where**: University of Queensland, Chamberlain Building 35, Room 104
+**Important dates**
 
-[Details](../WorkshopAnsell.pdf)
+22 May Abstracts due
 
-#### A hands-on guide to Semantic Tagger for your text data analysis
+5 June Notification of acceptance
 
-The Australian Text Analytics Platform (ATAP) project is a project that aims to provide researchers with the tools and training for analysing, processing, and exploring text. As part of this project, we have adapted with permission, a Semantic Tagger, developed by the University Centre for Computer Corpus Research on Language ([UCREL](https://ucrel.lancs.ac.uk/)) at Lancaster University. This tool uses the Python Multilingual UCREL Semantic Analysis System ([PyMUSAS](https://pypi.org/project/pymusas/)) to tag your text data so that you can extract token level semantic tags from your text. In addition to the USAS tags, this tool can also recognize Multi Word Expressions (MWE), i.e., expressions formed by two or more words that behave like a unit such as 'South Australia', and identifies lemmas and Part-of-Speech (POS) tags in the text. For example, in the sentence ‘President Joe Biden attended two meetings today’, the tool will tag each token with its semantic tag like this -> ‘President Joe Biden’: MWE of [Personal names], ‘attended’: [Participating], ‘two’: [Number], ‘meetings’: [Participating] and ‘today’: [Time: Present; simultaneous]. This tool is available in both English and multi-lingual (Chinese, Italian and Spanish) versions and supports saving the results locally for further analysis, enabling you to gain meaningful insights into your research questions.
+3 July Workshop
 
-**When**: Wednesday 22 March 2023, 3:00PM - 4:30PM (AEDT)
+How to Submit: Please submit your abstract by 22 May on https://forms.gle/1pwxVVmUV5hCCZ997
 
-**Where**: Online
+**Inquiries**
 
-[Details and Registration](https://www.eventbrite.com.au/e/a-hands-on-guide-to-semantic-tagger-for-your-text-data-analysis-tickets-532683038307)
+Please contact either
+{{<raw>}}
+<a href="mailto:catherine.travis@anu.edu.au?subject=Workshop on Language Coropra in Australia">Catherine Travis</a> or <a href="mailto:li.nguyen@anu.edu.au?subject=Workshop on Language Coropra in Australia">Li Nguyen</a>
+{{</raw>}}
 
 ### Office Hours {#office-hours}
 

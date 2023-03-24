@@ -6,6 +6,28 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### Jefferson Transcript Search Tool
+
+The Search Tool project uses programming to explore how to easily search and manipulate transcripts without the need to 'clean' the transcript. A browser-based tool has been developed, designed to be used by researchers unfamiliar with programming.
+
+The workshop was presented by Evelyn Ansell and is an outcome of her Career Development placement with Australia's Academic and Research Network ([AARNET](https://www.aarnet.edu.au/)). The Jupyter Notebook tool and this workshop have been developed during that placement.
+
+**Date**: Friday 17 March 2023
+
+**Length**: 90 minutes
+
+**Facilitator**: Evelyn Ansell
+
+#### A hands-on guide to Semantic Tagger for your text data analysis
+
+The Australian Text Analytics Platform (ATAP) project is a project that aims to provide researchers with the tools and training for analysing, processing, and exploring text. As part of this project, we have adapted with permission, a Semantic Tagger, developed by the University Centre for Computer Corpus Research on Language ([UCREL](https://ucrel.lancs.ac.uk/)) at Lancaster University. This tool uses the Python Multilingual UCREL Semantic Analysis System ([PyMUSAS](https://pypi.org/project/pymusas/)) to tag your text data so that you can extract token level semantic tags from your text. In addition to the USAS tags, this tool can also recognize Multi Word Expressions (MWE), i.e., expressions formed by two or more words that behave like a unit such as 'South Australia', and identifies lemmas and Part-of-Speech (POS) tags in the text. For example, in the sentence ‘President Joe Biden attended two meetings today’, the tool will tag each token with its semantic tag like this -> ‘President Joe Biden’: MWE of [Personal names], ‘attended’: [Participating], ‘two’: [Number], ‘meetings’: [Participating] and ‘today’: [Time: Present; simultaneous]. This tool is available in both English and multi-lingual (Chinese, Italian and Spanish) versions and supports saving the results locally for further analysis, enabling you to gain meaningful insights into your research questions.
+
+**Date**: Wednesday 22 March 2023
+
+**Length**: 90 minutes
+
+**Facilitator**: Sony Jufri
+
 #### Australian Text Analytics Platform tools: Discursis, Juxtorpus, Quotation tool and Semantic tagger
 
 This workshop was part of the USyd Digital Humanities Day 2023.
