@@ -14,7 +14,6 @@
 }
 
 // Increase size of the logo on a desktop view
-
 #header-desktop {
   height: auto !important;
   background-color: transparent;
@@ -26,7 +25,8 @@
     .logo {
       height: fit-content;
       max-height: 5em;
-      max-width: 60%;
+      min-height: 5em;
+      max-width: 100%;
       padding: 0.2em;
       padding-top: 0.5em;
     }
@@ -78,7 +78,7 @@
   }
 }
 
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 960px) {
   #header-desktop {
     display: none;
   }
