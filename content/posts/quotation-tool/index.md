@@ -15,7 +15,7 @@ The tool can also use [Named-Entity Recognition](https://en.wikipedia.org/wiki/N
 
 The tool can also identify the verbs that are used to cite quotations (e.g. _say, tell, add, claim, admit_). This will be particularly useful to those interested in the variation of reporting verbs.
 
-Once the tool has processed the files, it will display the first few identified and extracted quotes (and entities) in a table. An example of this preview table is shown in Table 1 below, which displays the identified quote along with information such as the speaker and their entity type, the entity name and type of the entities identified within the quote and the quoting/projecting verb (if there is one). The type of quote is described on the basis of the various components of the quote construction (Q = quotation mark, S = speaker, V = verb, C -= content) and their linear order.
+Once the tool has processed the files, it will display the first few identified and extracted quotes (and entities) in a table. An example of this preview table is shown in Table 1 below, which displays the identified quote along with information such as the speaker and their entity type, the entity name and type of the entities identified within the quote and the quoting/projecting verb (if there is one). The type of quote is described on the basis of the various components of the quote construction (Q = quotation mark, S = speaker, V = verb, C = content) and their linear order.
 
 {{<raw>}}
 <br />
