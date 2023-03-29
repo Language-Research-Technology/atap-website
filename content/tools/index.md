@@ -19,7 +19,7 @@ Discursis is communication analytics technology that allows a user to analyse te
 
 ### [Quotation tool](https://github.com/Australian-Text-Analytics-Platform/quotation-tool)
 
-This Quotation Tool can be used to extract quotes from a text. In addition to extracting the quotes, the tool also provides information about who the speakers are, the location of the quotes (and the speakers) within the text, the identified named entities, and other information which can be useful for text analysis.
+This Quotation Tool can be used to extract quotes from a text. In addition to extracting the quotes, the tool also provides information about who the speakers are, the location of the quotes (and the speakers) within the text, the identified named entities, and other information which can be useful for text analysis. See this blog [post](../posts/quotation-tool) for more details.
 
 ### [Semantic Tagger](https://github.com/Australian-Text-Analytics-Platform/semantic-tagger)
 
