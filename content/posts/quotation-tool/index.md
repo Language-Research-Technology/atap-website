@@ -62,7 +62,7 @@ This Jupyter notebook and relevant python scripts were developed by the Sydney I
 
 If you are using this notebook in your research, please include the following statement or an appropriate variation thereof:
 
-_This study has utilised a notebook/notebooks developed for the Australian Text Analytics Platform (https://www.atap.edu.au) available at (https://github.com/Australian-Text-Analytics-Platform/quotation-tool)._
+_This study has utilised a notebook/notebooks developed for the Australian Text Analytics Platform (https://www.atap.edu.au) available at [https://github.com/Australian-Text-Analytics-Platform/quotation-tool](https://github.com/Australian-Text-Analytics-Platform/quotation-tool)._
 
 In addition, please inform ATAP (info@atap.edu.au) of publications and grant applications deriving from the use of any ATAP notebooks in order to support continued funding and development of the platform.
 
