@@ -8,9 +8,9 @@ draft: false
 
 <table>
 <tr>
-<td width = "80%"><h2><a>Braided Channels</a></h2></td><td width = "20%"><img src="../text.png" height = "60px"/><img src="../audio-visual.png" height = "60px"/><img src="../public.png" height = "60px"/></td>
+<td width = "80%"><h2><a>Braided Channels</a></h2></td><td width = "20%" align="right"><img src="../public.png" height = "60px"/></td>
 </tr><tr>
-<td width = "80%">Contains: <b>Dataset RepositoryCollection</b><br />Languages: <b>English</b><td width = "20%"></td>
+<td width = "80%">Contains: <b>Dataset RepositoryCollection</b><br />Languages: <b>English</b><td width = "20%" align="right"><img src="../txt.png" height = "60px"/><img src="../mp4.png" height = "60px"/></td>
 </tr><tr>
 </table>
 {{</raw>}}
@@ -22,9 +22,9 @@ The Braided Channels research collection includes materials collected on Austral
 
 <table>
 <tr>
-<td width = "80%"><h2><a>The La Trobe Corpus of Spoken Australian English</a></h2></td><td width = "20%"><img src="../text.png" height = "60px"/><img src="../ms_word.png" height = "60px"/><img src="../log_in.png" height = "60px"/></td>
+<td width = "80%"><h2><a>The La Trobe Corpus of Spoken Australian English</a></h2></td><td width = "20%" align="right"><img src="../log_in.png" height = "60px"/></td>
 </tr><tr>
-<td width = "80%">Contains: <b>Dataset RepositoryCollection</b><br />Languages: <b>English</b><td width = "20%"></td>
+<td width = "80%">Contains: <b>Dataset RepositoryCollection</b><br />Languages: <b>English</b><td width = "20%" align="right"><img src="../txt.png" height = "60px"/><img src="../word.png" height = "60px"/></td>
 </tr><tr>
 </table>
 {{</raw>}}
@@ -36,9 +36,9 @@ The La Trobe Corpus of Spoken Australian English (LTCSAusE) comprises a collecti
 
 <table>
 <tr>
-<td width = "80%"><h2><a>AustLit</a></h2></td><td width = "20%"><img src="../text.png" height = "60px"/><img src="../xml.png" height = "60px"/><img src="../public.png" height = "60px"/></td>
+<td width = "80%"><h2><a>AustLit</a></h2></td><td width = "20%" align="right"><img src="../public.png" height = "60px"/></td>
 </tr><tr>
-<td width = "80%">Contains: <b>Dataset RepositoryCollection</b><br />Languages: <b>English</b><td width = "20%"></td>
+<td width = "80%">Contains: <b>Dataset RepositoryCollection</b><br />Languages: <b>English</b><td width = "20%" align="right"><img src="../txt.png" height = "60px"/><img src="../xml.png" height = "60px"/></td>
 </tr><tr>
 </table>
 {{</raw>}}
