@@ -38,6 +38,20 @@ Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
+#### Exploring Digital Text Collections with Juxtorpus: A Taster Webinar on the Latest ATAP Text Analysis Tool
+
+Join us for a hybrid taster webinar on the latest addition to the suite of ATAP text analysis tools - Juxtorpus. Developed to provide a unified framework for managing and exploring text contents and metadata, Juxtorpus offers a Corpus package that enables flexible building, exploration, and slicing of your corpus while maintaining its shape, and a Jux package that allows for easy comparison and highlighting of differences between any two corpora with tools and visualisations that come off-the-shelf. During the webinar, we'll also show you how to use other ATAP tools in combination with the Corpus to create a reusable workflow that will boost your analysis capabilities.
+
+This 1.5-hour webinar will come with minimal hands-on opportunities, and we invite anyone interested in learning how to handle and analyse their digital text collections to join us. No programming knowledge or skills are required.
+
+**When**: 10:30am – 12pm, Thursday, 25th May 2023
+
+**How**: Hybrid (In-person for University of Sydney participants, Online for other participants)
+
+**Where**: Zoom link and location will be sent a few days before the event.
+
+[Register](https://bit.ly/3oKNXvI)
+
 #### Workshop on Language Corpora in Australia
 
 Over decades of work in Australia, significant collections of language data have been amassed, including of varieties of Australian English, Australian migrant languages, Australian Indigenous languages, sign languages and others. These collections represent a trove of knowledge not only of language in Australia, but also of Australia’s social and cultural history. And yet, not all are well known and many lack published descriptions. The purpose of this workshop is to provide an opportunity to share information about existing language corpora in Australia, with a view to producing a special issue of the _Australian Journal of Linguistics_ that introduces a selection of these corpora, explores how they can contribute to our understanding of language, society, and history in Australia, and considers avenues that such corpora open up for future research.
