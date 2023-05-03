@@ -62,7 +62,7 @@ This workshop is being run as part of the Language Data Commons of Australia ([L
 
 For a 20 min presentation, please submit a 250-300 word abstract in English (excluding references). The presentation should include the following information:
 
-- Speech community/fieldsite: Describe the location of the community and/or their brief history in Australia, the languages spoken and their current status.
+- Speech community/fieldsite: Describe the location of the community and/or their brief history in Australia, the languages spoken and/or signed, and their current status.
 - Corpus design principles: Specify the sample size, sociolinguistic background of the participants, method of data collection and/or genre (e.g. sociolinguistic interviews, natural conversations, oral histories, elicited data, etc.); data format (written/spoken/audio/video, etc.) and where it is stored.
 - Corpus findings and implications: Summarise some key findings from the corpus and discuss other insights that might be obtained from the data in current or future work.
 
