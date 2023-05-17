@@ -7,11 +7,11 @@
     author: Kelvin Lee
 ---
 
-TThe Semantic Tagger tool is a Jupyter notebook containing code that was adapted and developed (with permission) from the Python Multilingual Ucrel Semantic Analysis System ([PyMUSAS](https://ucrel.github.io/pymusas/)) by the Sydney Informatics Hub ([SIH](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html)) in collaboration with the [Sydney Corpus Lab](https://sydneycorpuslab.com/) as part of the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)) project.
+The Semantic Tagger tool is a Jupyter notebook containing code that was adapted and developed (with permission) from the Python Multilingual Ucrel Semantic Analysis System ([PyMUSAS](https://ucrel.github.io/pymusas/)) by the Sydney Informatics Hub ([SIH](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html)) in collaboration with the [Sydney Corpus Lab](https://sydneycorpuslab.com/) as part of the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)) project.
 
 The tool automatically processes text data, categorises and annotates words or multi-word expressions (MWEs, e.g. New South Wales) based on their meaning class (e.g. location/place). Currently, the tool has been designed to annotate text data using Paul Rayson’s Ucrel Semantic Analysis System ([USAS](https://ucrel.lancs.ac.uk/usas/)) semantic tagset. The automatic semantic tagging helps bypass the time-consuming task of manually coding a large amount of text data.
 
-The tool allows you to preview the results (i.e. the first 500 tokens) for individual files in the form of a table – an example is shown in Figure 1 below. The preview table displays the tokens (i.e. words) alongside other information such as their assigned USAS tag, definition of the assigned USAS tag, and the sentence where the word occurs. You can choose to preview the results for one text file or two sets of results (i.e. for two separate files) for comparison. As shown in Figure 1, the tool also displays the lemma and part-of-speech (POS) tags for each word or MWE. This aspect of the tool may be of interest to those examining the association between the part-of-speech function of a word (or MWEs) and their semantic class. The full results (i.e. table for all files) can be downloaded as a comma separated file (.csv) or as an excel spreadsheet (.xlsx) containing the tagged texts, or as a zipped folder (.zip) of tagged text (.txt) files, which can then be used to conduct further analysis.
+The tool allows you to preview the results (i.e. the first 500 tokens) for individual files in the form of a table – an example is shown in Figure 1 below. The preview table displays the tokens (i.e. words) alongside other information such as their assigned USAS tag, definition of the assigned USAS tag, and the sentence where the word occurs. You can choose to preview the results for one text file or two sets of results (i.e. for two separate files) for comparison. As shown in Figure 1, the tool also displays the lemma (the form that would be listed in a dictionary) and part-of-speech (POS) tags for each word or MWE. This aspect of the tool may be of interest to those examining the association between the part-of-speech function of a word (or MWEs) and their semantic class. The full results (i.e. table for all files) can be downloaded as a comma separated file (.csv) or as an excel spreadsheet (.xlsx) containing the tagged texts, or as a zipped folder (.zip) of tagged text (.txt) files, which can then be used to conduct further analysis.
 
 {{<raw>}}
 <br />
@@ -21,7 +21,7 @@ The tool allows you to preview the results (i.e. the first 500 tokens) for indiv
 <br />
 {{</raw>}}
 
-The tool also produces another table that displays the frequency for every semantic category associated with each USAS tag. In essence, this table shows the number of tokens that have been assigned each semantic category/tag (e.g. Figure 2).
+The tool also produces another table that displays the frequency for every semantic category associated with each USAS tag. In essence, this table shows the number of tokens that have been assigned each semantic category/tag as seen in Figure 2.
 
 {{<raw>}}
 <br />
@@ -31,7 +31,7 @@ The tool also produces another table that displays the frequency for every seman
 <br />
 {{</raw>}}
 
-The tool also allows you to visualise the most commonly assigned semantic categories/tags or POS tags as well as the most frequent lemmas, tokens, or MWEs as bar graphs – an example is shown in Figure 3 below. It is also possible to adjust the number of top items to display (i.e. in multiples of five). You can choose to visualise the most frequently identified/assigned tags for the whole corpus/dataset or for individual files within the corpus/dataset. In the event you want to produce visualisations for individual files, you can choose to do this for just one file or for two separate files (e.g. for comparison). You can also choose to save all of the visualisations you produced (based on the set parameters) as jpg files.
+The tool also allows you to visualise the most commonly assigned semantic categories/tags or POS tags as well as the most frequent lemmas, tokens, or MWEs as bar graphs – an example is shown in Figure 3 below. It is also possible to adjust the number of top items to display (i.e. in multiples of five). You can choose to visualise the most frequently assigned tags for the whole corpus or for individual files within the dataset. In the event you want to produce visualisations for individual files, you can choose to do this for just one file or for two separate files (e.g. for comparison). You can also choose to save all of the visualisations you produced (based on the set parameters) as jpg files.
 
 {{<raw>}}
 <br />
