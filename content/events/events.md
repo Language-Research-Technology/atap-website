@@ -4,53 +4,28 @@ date: 2022-02-15T17:13:28+10:00
 draft: false
 ---
 
-[Webinars](#webinars) &emsp;&emsp;
 [Forthcoming workshops](#forthcoming-workshops) &emsp;&emsp;
 [Previous workshops](../previous) &emsp;&emsp;
+[Webinars](#webinars) &emsp;&emsp;
 [Office Hours](#office-hours)
-
-### Webinars {#webinars}
-
-Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland). LADAL sponsored [webinars](https://slcladal.github.io/webinars2022.html) take place in the alternate months.
-
-All webinars take place at 8:00PM Brisbane time which is UTC+10. Zoom links will be available one week prior to the event.
-
-#### October 3 2022 - Paweł Kamocki: European Union Data Protection initiatives and their consequences for research
-
-**Abstract**:<br>
-The European Union, with its large population and GDP, is a leading force in regulatory globalisation. This webinar will discuss recent developments in legal frameworks affecting research data in Europe. Apart from the General Data Protection Regulation which, since its entry into application in 2018, has become an international standard of personal data protection, the recent introduction of statutory copyright exceptions for Text and Data Mining will also be discussed. Moreover, the webinar will also include a presentation of the most recent changes in EU law, such as the Data Governance Act and the Artificial Intelligence Act, which are expected to enter into application in the coming years.
-
-**Paweł Kamocki** is a legal expert in Leibniz-Institut für Deutsche Sprache, Mannheim. He studied linguistics and law, and in 2017 obtained his doctorate in law from the universities of Paris and Münster for a thesis on legal aspects of data-intensive university research, with a focus on Knowledge Commons. He worked as a research and teaching assistant at the Paris Descartes university (now: Université de Paris), then also in the private sector. He is certified to work as an attorney in France. An active member of the [CLARIN](https://www.clarin.eu/) community since 2012, he currently chairs the CLARIN Legal and Ethical Issues Committee. He also worked with other projects and initiatives in the field of research data policy (RDA, EUDAT) and co-created several LegalTech tools for researchers. One of his main research interests are legal issues in Machine Translation.
-
-[Zoom link](https://uqz.zoom.us/j/82090438697?from=addon)
-
-#### August 1 2022 - Václav Cvrček: The Czech national Corpus
-
-[Václav Cvrček](https://ucnk.ff.cuni.cz/en/institute/people/vaclav-cvrcek-2/) is a linguist who deals with the description of the Czech language, especially with the use of large electronic corpora and quantitative methods. In 2013-2016 he worked as the director of the [Czech National Corpus](https://ucnk.ff.cuni.cz/en/) project, since 2016 he has been the deputy director. Recently, he has been focusing on research on textual variability and corpus-based discourse analysis with a focus on online media.
-
-#### June 6 2022 - Barbara McGillivray: The _Journal of Open Humanities Data_
-
-Barbara McGillivray is a Turing Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/), and Editor in Chief of the [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/). Since September 2021 she is also a lecturer in Digital Humanities and Cultural Computation at the [Department of Digital Humanities of King's College London](https://www.kcl.ac.uk/ddh). Before joining the Turing, she was language technologist in the Dictionary division of Oxford University Press and data scientist in the Open Research Group of Springer Nature. Her research at the Turing is on how words change meaning over time and how to model this change in computational ways. She works on machine-learning models for the change in meaning of words in historical times (Ancient Greek, Latin, eighteen-century English) and in contemporary texts (Twitter, web archives, emoji). Her interdisciplinary contribution covers Data Science, Natural Language Processing, Historical Linguistics and other humanistic fields, to push the boundaries of what academic disciplines separately have achieved so far on this topic.
-
-#### 4 April 2022 - Keoni Mahelona: A practical approach to Indigenous data sovereignty
-
-Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.nz/) where he is a part of the team developing the Kaitiakitanga Licence. This licence seeks to balance the importance of publicly accessible data with the reality that indigenous peoples may not have access to the resources that enable them to benefit from public data. By simply opening access to data and knowledge, indigenous people could be further colonised and taken advantage of in a digital, modern world. Therefore Keoni is committed to devising data governance regimes which enable Indigenous people to reclaim and maintain sovereignty over indigenous data.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Exploring Digital Text Collections with Juxtorpus: A Taster Webinar on the Latest ATAP Text Analysis Tool
+#### Australian Text Analytics Platform: New tools for text analysis
 
-Join us for a hybrid taster webinar on the latest addition to the suite of ATAP text analysis tools - Juxtorpus. Developed to provide a unified framework for managing and exploring text contents and metadata, Juxtorpus offers a Corpus package that enables flexible building, exploration, and slicing of your corpus while maintaining its shape, and a Jux package that allows for easy comparison and highlighting of differences between any two corpora with tools and visualisations that come off-the-shelf. During the webinar, we'll also show you how to use other ATAP tools in combination with the Corpus to create a reusable workflow that will boost your analysis capabilities.
+The main means of delivery for ATAP is Jupyter notebooks and this half-day workshop will begin with a brief introduction to notebooks for participants not already familiar with the technology. The main body of the workshop will introduce two tools made available by ATAP, and the session will end with a short summary of other tools being developed in recent work.
 
-This 1.5-hour webinar will come with minimal hands-on opportunities, and we invite anyone interested in learning how to handle and analyse their digital text collections to join us. No programming knowledge or skills are required.
+Discursis is a tool for tracking topics in linguistic interaction which was originally made available as part of a commercial package, but ATAP (in association with our partner the Sydney Informatics Hub ([SIH](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html))) has re-engineered the tool as an open source package, accessible as a notebook. This part of the workshop will introduce the analytic ideas which underlie Discursis, demonstrate the functionality of the tool, including visualisation possibilities, and allow participants to gain hands-on experience in using it.
 
-**When**: 10:30am – 12pm, Thursday, 25th May 2023
+The QuotationTool has also been developed in association with SIH based on previous work by Canadian researchers (Asr et al. 2021). This tool can be used to extract quotes from a text. In addition to extracting the quotes, the tool also provides information about who the speakers are, the location of the quotes (and the speakers) within the text, and the identified named entities, all of which can contribute to text analysis. Results of the analysis are stored as a dataframe which can be downloaded and can also be viewed on screen with elements of interest highlighted (using the displaCy library). Again, this part of the workshop will introduce the analytic basis of the tool, demonstrate it, and allow participants to work through the notebook.
 
-**How**: Hybrid (In-person for University of Sydney participants, Online for other participants)
+The last section of the workshop will consist of a brief overview of the work of the project in the first half of 2023.
 
-**Where**: Zoom link and location will be sent a few days before the event.
+**When**: 9:00AM - 1:00PM, Monday June 19 2023
 
-[Register](https://bit.ly/3oKNXvI)
+**Where**: University of Queensland, Building 32 Room 211 and by [Zoom](https://uqz.zoom.us/j/83881590768)
+
+**More information**: This workshop is a satellite event of the 7th Conference of the International Society for the Linguistics of English (ISLE7) - see the [conference website](https://languages-cultures.uq.edu.au/isle7) for further details. As a satellite event, conference registration is **NOT** required for participants.
 
 #### Workshop on Language Corpora in Australia
 
@@ -82,6 +57,60 @@ Please contact either
 {{<raw>}}
 <a href="mailto:catherine.travis@anu.edu.au?subject=Workshop on Language Coropra in Australia">Catherine Travis</a> or <a href="mailto:li.nguyen@anu.edu.au?subject=Workshop on Language Coropra in Australia">Li Nguyen</a>
 {{</raw>}}
+
+#### Workshop on Data Migration Skills
+
+The Language Data Commons of Australia infrastructure is based on widely-accepted standards such as Research Object Crates ([RO-Crate](https://www.researchobject.org/ro-crate/)) and the Oxford Common File Layout ([OCFL](https://ocfl.io/)). The project has been running for almost two years and the processes and tools for aligning data with these standards are now well-developed. This workshop aims to show the application of those tools to data in a variety of formats to efficiently migrate material to the LDaCA standards.
+
+The workshop is intended for data librarians and other professionals who are interested in these issues, but participation is open to anyone. We hope that participants will have some experience of working with code and/or metadata and that they will be able to bring datasets which they work with (or are responsible for) to use in the practical exercises which will make up a large part of the workshop. However, we will have example datasets available and we also are open to the possibility of participants working in teams based on complementary skills.
+
+The workshop will run over two days; the first day will be a hybrid event and the second day will be for in-person attendees only.
+
+**Content**:
+
+Day 1: Presentations / demonstrations (in person preferred, but hybrid available)
+
+- Overview of tech stack
+- Survey of tools and demos of individual components
+- Intro to PARADISEC practices
+- Using spreadsheets for metadata
+- Show and tell of datasets from participants
+
+Day 2: Practical (in person):
+We will run practical sessions with materials provided by the participants where possible, or choose example datasets and provide customised training.
+
+**When**: July 20 and 21, 2023
+
+**Where**: Engma Room, Coombs Building, Australian National University
+
+**Registration**: If you wish to attend both days, you need to register for each day separately.
+
+[Day 1](https://www.eventbrite.com.au/e/660928152897)
+
+[Day 2](https://www.eventbrite.com.au/e/654718028247)
+
+### Previous Webinars {#webinars}
+
+Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland).
+
+#### October 3 2022 - Paweł Kamocki: European Union Data Protection initiatives and their consequences for research
+
+**Abstract**:<br>
+The European Union, with its large population and GDP, is a leading force in regulatory globalisation. This webinar will discuss recent developments in legal frameworks affecting research data in Europe. Apart from the General Data Protection Regulation which, since its entry into application in 2018, has become an international standard of personal data protection, the recent introduction of statutory copyright exceptions for Text and Data Mining will also be discussed. Moreover, the webinar will also include a presentation of the most recent changes in EU law, such as the Data Governance Act and the Artificial Intelligence Act, which are expected to enter into application in the coming years.
+
+**Paweł Kamocki** is a legal expert in Leibniz-Institut für Deutsche Sprache, Mannheim. He studied linguistics and law, and in 2017 obtained his doctorate in law from the universities of Paris and Münster for a thesis on legal aspects of data-intensive university research, with a focus on Knowledge Commons. He worked as a research and teaching assistant at the Paris Descartes university (now: Université de Paris), then also in the private sector. He is certified to work as an attorney in France. An active member of the [CLARIN](https://www.clarin.eu/) community since 2012, he currently chairs the CLARIN Legal and Ethical Issues Committee. He also worked with other projects and initiatives in the field of research data policy (RDA, EUDAT) and co-created several LegalTech tools for researchers. One of his main research interests are legal issues in Machine Translation.
+
+#### August 1 2022 - Václav Cvrček: The Czech national Corpus
+
+[Václav Cvrček](https://ucnk.ff.cuni.cz/en/institute/people/vaclav-cvrcek-2/) is a linguist who deals with the description of the Czech language, especially with the use of large electronic corpora and quantitative methods. In 2013-2016 he worked as the director of the [Czech National Corpus](https://ucnk.ff.cuni.cz/en/) project, since 2016 he has been the deputy director. Recently, he has been focusing on research on textual variability and corpus-based discourse analysis with a focus on online media.
+
+#### June 6 2022 - Barbara McGillivray: The _Journal of Open Humanities Data_
+
+Barbara McGillivray is a Turing Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/), and Editor in Chief of the [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/). Since September 2021 she is also a lecturer in Digital Humanities and Cultural Computation at the [Department of Digital Humanities of King's College London](https://www.kcl.ac.uk/ddh). Before joining the Turing, she was language technologist in the Dictionary division of Oxford University Press and data scientist in the Open Research Group of Springer Nature. Her research at the Turing is on how words change meaning over time and how to model this change in computational ways. She works on machine-learning models for the change in meaning of words in historical times (Ancient Greek, Latin, eighteen-century English) and in contemporary texts (Twitter, web archives, emoji). Her interdisciplinary contribution covers Data Science, Natural Language Processing, Historical Linguistics and other humanistic fields, to push the boundaries of what academic disciplines separately have achieved so far on this topic.
+
+#### 4 April 2022 - Keoni Mahelona: A practical approach to Indigenous data sovereignty
+
+Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.nz/) where he is a part of the team developing the Kaitiakitanga Licence. This licence seeks to balance the importance of publicly accessible data with the reality that indigenous peoples may not have access to the resources that enable them to benefit from public data. By simply opening access to data and knowledge, indigenous people could be further colonised and taken advantage of in a digital, modern world. Therefore Keoni is committed to devising data governance regimes which enable Indigenous people to reclaim and maintain sovereignty over indigenous data.
 
 ### Office Hours {#office-hours}
 
