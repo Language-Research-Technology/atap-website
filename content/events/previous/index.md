@@ -6,6 +6,18 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### Australian Text Analytics Platform: New tools for text analysis
+
+The main means of delivery for ATAP is Jupyter notebooks and this half-day workshop began with a brief introduction to notebooks for participants not already familiar with the technology. The main body of the workshop introduced two tools made available by ATAP, and the session ended with a short summary of other tools being developed in recent work.
+
+**When**: Monday June 19 2023
+
+**Length**: 3 hours
+
+**Facilitators**: Simon Musgrave, Sam Hames, Ben Foley, Chao Sun
+
+**More information**: This workshop was a satellite event of the 7th Conference of the International Society for the Linguistics of English (ISLE7) - see the [conference website](https://languages-cultures.uq.edu.au/isle7) for further details.
+
 #### Exploring Digital Text Collections with Juxtorpus: A Taster Webinar on the Latest ATAP Text Analysis Tool
 
 Join us for a hybrid taster webinar on the latest addition to the suite of ATAP text analysis tools - Juxtorpus. Developed to provide a unified framework for managing and exploring text contents and metadata, Juxtorpus offers a Corpus package that enables flexible building, exploration, and slicing of your corpus while maintaining its shape, and a Jux package that allows for easy comparison and highlighting of differences between any two corpora with tools and visualisations that come off-the-shelf. During the webinar, we'll also show you how to use other ATAP tools in combination with the Corpus to create a reusable workflow that will boost your analysis capabilities.

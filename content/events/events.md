@@ -11,49 +11,18 @@ draft: false
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Australian Text Analytics Platform: New tools for text analysis
-
-The main means of delivery for ATAP is Jupyter notebooks and this half-day workshop will begin with a brief introduction to notebooks for participants not already familiar with the technology. The main body of the workshop will introduce two tools made available by ATAP, and the session will end with a short summary of other tools being developed in recent work.
-
-Discursis is a tool for tracking topics in linguistic interaction which was originally made available as part of a commercial package, but ATAP (in association with our partner the Sydney Informatics Hub ([SIH](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html))) has re-engineered the tool as an open source package, accessible as a notebook. This part of the workshop will introduce the analytic ideas which underlie Discursis, demonstrate the functionality of the tool, including visualisation possibilities, and allow participants to gain hands-on experience in using it.
-
-The QuotationTool has also been developed in association with SIH based on previous work by Canadian researchers (Asr et al. 2021). This tool can be used to extract quotes from a text. In addition to extracting the quotes, the tool also provides information about who the speakers are, the location of the quotes (and the speakers) within the text, and the identified named entities, all of which can contribute to text analysis. Results of the analysis are stored as a dataframe which can be downloaded and can also be viewed on screen with elements of interest highlighted (using the displaCy library). Again, this part of the workshop will introduce the analytic basis of the tool, demonstrate it, and allow participants to work through the notebook.
-
-The last section of the workshop will consist of a brief overview of the work of the project in the first half of 2023.
-
-**When**: 9:00AM - 1:00PM, Monday June 19 2023
-
-**Where**: University of Queensland, Building 32 Room 211 and by [Zoom](https://uqz.zoom.us/j/83881590768)
-
-**More information**: This workshop is a satellite event of the 7th Conference of the International Society for the Linguistics of English (ISLE7) - see the [conference website](https://languages-cultures.uq.edu.au/isle7) for further details. As a satellite event, conference registration is **NOT** required for participants.
-
 #### Workshop on Language Corpora in Australia
 
 Over decades of work in Australia, significant collections of language data have been amassed, including of varieties of Australian English, Australian migrant languages, Australian Indigenous languages, sign languages and others. These collections represent a trove of knowledge not only of language in Australia, but also of Australia’s social and cultural history. And yet, not all are well known and many lack published descriptions. The purpose of this workshop is to provide an opportunity to share information about existing language corpora in Australia, with a view to producing a special issue of the _Australian Journal of Linguistics_ that introduces a selection of these corpora, explores how they can contribute to our understanding of language, society, and history in Australia, and considers avenues that such corpora open up for future research.
 
 This workshop is being run as part of the Language Data Commons of Australia ([LDaCA](https://www.ldaca.edu.au/)), which is working to build national research infrastructure for the Humanities and Social Sciences, facilitating access to and use of digital language corpora for linguists, scholars across the Humanities and Social Sciences, and non-academics.
 
-**Abstract submission**
+**When**: 9:00AM - 5:40PM, Monday July 3 2023
 
-For a 20 min presentation, please submit a 250-300 word abstract in English (excluding references). The presentation should include the following information:
+**Where**: Online live, via [Zoom](https://anu.zoom.us/j/82388177779?pwd=aHFEbFMwRVdqL3VzTmdDNm41QlA5UT09)
 
-- Speech community/fieldsite: Describe the location of the community and/or their brief history in Australia, the languages spoken and/or signed, and their current status.
-- Corpus design principles: Specify the sample size, sociolinguistic background of the participants, method of data collection and/or genre (e.g. sociolinguistic interviews, natural conversations, oral histories, elicited data, etc.); data format (written/spoken/audio/video, etc.) and where it is stored.
-- Corpus findings and implications: Summarise some key findings from the corpus and discuss other insights that might be obtained from the data in current or future work.
+**[Program](../Workshop_LanguageCorporaInAus_2023.pdf)**
 
-**Important dates**
-
-22 May Abstracts due
-
-5 June Notification of acceptance
-
-3 July Workshop
-
-How to Submit: Please submit your abstract by 22 May on https://forms.gle/1pwxVVmUV5hCCZ997
-
-**Inquiries**
-
-Please contact either
 {{<raw>}}
 <a href="mailto:catherine.travis@anu.edu.au?subject=Workshop on Language Coropra in Australia">Catherine Travis</a> or <a href="mailto:li.nguyen@anu.edu.au?subject=Workshop on Language Coropra in Australia">Li Nguyen</a>
 {{</raw>}}
