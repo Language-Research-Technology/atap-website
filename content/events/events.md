@@ -23,10 +23,6 @@ This workshop is being run as part of the Language Data Commons of Australia ([L
 
 **[Program](../Workshop_LanguageCorporaInAus_2023.pdf)**
 
-{{<raw>}}
-<a href="mailto:catherine.travis@anu.edu.au?subject=Workshop on Language Coropra in Australia">Catherine Travis</a> or <a href="mailto:li.nguyen@anu.edu.au?subject=Workshop on Language Coropra in Australia">Li Nguyen</a>
-{{</raw>}}
-
 #### Workshop on Data Migration Skills
 
 The Language Data Commons of Australia infrastructure is based on widely-accepted standards such as Research Object Crates ([RO-Crate](https://www.researchobject.org/ro-crate/)) and the Oxford Common File Layout ([OCFL](https://ocfl.io/)). The project has been running for almost two years and the processes and tools for aligning data with these standards are now well-developed. This workshop aims to show the application of those tools to data in a variety of formats to efficiently migrate material to the LDaCA standards.
