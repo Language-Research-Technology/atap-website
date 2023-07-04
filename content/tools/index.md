@@ -4,7 +4,7 @@ date: 2022-02-15T17:13:28+10:00
 draft: false
 ---
 
-### [ATAP Portal](https://data.atap.edu.au/main)
+### [ATAP Portal](https://data.atap.edu.au/search)
 
 This first version of our user portal provides access to two datasets with notebooks which enable exploration of the data.
 
