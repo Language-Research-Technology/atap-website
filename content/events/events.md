@@ -11,18 +11,6 @@ draft: false
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Workshop on Language Corpora in Australia
-
-Over decades of work in Australia, significant collections of language data have been amassed, including of varieties of Australian English, Australian migrant languages, Australian Indigenous languages, sign languages and others. These collections represent a trove of knowledge not only of language in Australia, but also of Australia’s social and cultural history. And yet, not all are well known and many lack published descriptions. The purpose of this workshop is to provide an opportunity to share information about existing language corpora in Australia, with a view to producing a special issue of the _Australian Journal of Linguistics_ that introduces a selection of these corpora, explores how they can contribute to our understanding of language, society, and history in Australia, and considers avenues that such corpora open up for future research.
-
-This workshop is being run as part of the Language Data Commons of Australia ([LDaCA](https://www.ldaca.edu.au/)), which is working to build national research infrastructure for the Humanities and Social Sciences, facilitating access to and use of digital language corpora for linguists, scholars across the Humanities and Social Sciences, and non-academics.
-
-**When**: 9:00AM - 5:40PM, Monday July 3 2023
-
-**Where**: Online live, via [Zoom](https://anu.zoom.us/j/82388177779?pwd=aHFEbFMwRVdqL3VzTmdDNm41QlA5UT09)
-
-**[Program](../Workshop_LanguageCorporaInAus_2023.pdf)**
-
 #### Workshop on Data Migration Skills
 
 The Language Data Commons of Australia infrastructure is based on widely-accepted standards such as Research Object Crates ([RO-Crate](https://www.researchobject.org/ro-crate/)) and the Oxford Common File Layout ([OCFL](https://ocfl.io/)). The project has been running for almost two years and the processes and tools for aligning data with these standards are now well-developed. This workshop aims to show the application of those tools to data in a variety of formats to efficiently migrate material to the LDaCA standards.
@@ -50,7 +38,7 @@ We will run practical sessions with materials provided by the participants where
 
 **Registration**: If you wish to attend both days, you need to register for each day separately.
 
-[Day 1](https://www.eventbrite.com.au/e/660928152897)
+[Day 1](https://www.eventbrite.com.au/e/660928152897) ([Zoom](https://uqz.zoom.us/j/87417309908))
 
 [Day 2](https://www.eventbrite.com.au/e/654718028247)
 

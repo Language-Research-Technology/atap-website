@@ -6,6 +6,18 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### Workshop on Language Corpora in Australia
+
+Over decades of work in Australia, significant collections of language data have been amassed, including of varieties of Australian English, Australian migrant languages, Australian Indigenous languages, sign languages and others. These collections represent a trove of knowledge not only of language in Australia, but also of Australia’s social and cultural history. And yet, not all are well known and many lack published descriptions. The purpose of this workshop is to provide an opportunity to share information about existing language corpora in Australia, with a view to producing a special issue of the _Australian Journal of Linguistics_ that introduces a selection of these corpora, explores how they can contribute to our understanding of language, society, and history in Australia, and considers avenues that such corpora open up for future research.
+
+**When**: Monday July 3 2023
+
+**Length**: Full day
+
+**Organisers**: Catherine Travis, Li Nguyen
+
+**[Program](../Workshop_LanguageCorporaInAus_2023.pdf)**
+
 #### Australian Text Analytics Platform: New tools for text analysis
 
 The main means of delivery for ATAP is Jupyter notebooks and this half-day workshop began with a brief introduction to notebooks for participants not already familiar with the technology. The main body of the workshop introduced two tools made available by ATAP, and the session ended with a short summary of other tools being developed in recent work.
