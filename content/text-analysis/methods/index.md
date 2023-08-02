@@ -13,7 +13,7 @@ draft: false
 
 ### Introduction
 
-Throughout this page, we have given links to further information in Wikipedia and in the tutorials provided by the Language Technology and Data Analysis Laboratory [LADAL](https://slcladal.github.io/) at the University of Queensland. We also have given references to published research using the methods we discuss.
+Throughout this page, we have given links to further information in Wikipedia and in the tutorials provided by the Language Technology and Data Analysis Laboratory [LADAL](https://slcladal.github.io/) at The University of Queensland. We also have given references to published research using the methods we discuss.
 
 LADAL has an overview of [text analysis and distant reading](https://slcladal.github.io/textanalysis.html).
 

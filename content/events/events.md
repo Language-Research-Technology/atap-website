@@ -44,7 +44,7 @@ We will run practical sessions with materials provided by the participants where
 
 ### Previous Webinars {#webinars}
 
-Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland).
+Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, The University of Queensland).
 
 #### October 3 2022 - Paweł Kamocki: European Union Data Protection initiatives and their consequences for research
 
