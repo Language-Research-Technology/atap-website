@@ -12,7 +12,7 @@ Many definitions of _data_ include an element such as _individual items of infor
 
 The term _word_ is problematic. It is well-known to linguists that phonological words (defined by sound patterns), syntactic words (defined by combinatorial possibilities) and orthographic words (defined by the conventions of a writing system) do not always coincide. And even when we are only looking at written material, there are problems. How many words are there in this sentence?
 
-<center><em>The cat sat on the mat</em></center>
+_The cat sat on the mat_
 
 One answer is that there are six words; that is, there are six groups of characters which are separated according to typographical convention. But there is another answer: There are five words, that is five distinct sequences of characters and one of those sequences (_the_) occurs twice. The terms standardly used to make this distinction are **type** and **token**. **Tokens** are instances of **types**, therefore if we count tokens, we count without considering repetition, while if we count types, we do consider repetition. In our example, there are five types (_the, cat, sat, on, mat_) but six tokens, because there are two tokens of one of the types (_the_).
 
