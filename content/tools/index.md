@@ -23,7 +23,7 @@ This Quotation Tool can be used to extract quotes from a text. In addition to ex
 
 ### [Semantic Tagger](https://github.com/Australian-Text-Analytics-Platform/semantic-tagger)
 
-This Semantic Tagger uses the Python Multilingual Ucrel Semantic Analysis System ([PyMUSAS](https://ucrel.github.io/pymusas/)) to tag text so that you can extract token level semantic tags from the tagged text. PyMUSAS, is a rule based token and Multi Word Expression (MWE) semantic tagger. The tagger can support any semantic tagset, however the currently released tagset is for the UCREL Semantic Analysis System ([USAS](https://ucrel.lancs.ac.uk/usas/)) semantic tags. In addition to the USAS tags, you will also see the lemmas and Part-ofSpeech (POS) tags in the text. For English, the tagger also identifies and tags Multi Word Expressions (MWE), i.e., expressions formed by two or more words that behave like a unit such as 'South Australia'.
+This Semantic Tagger uses the Python Multilingual Ucrel Semantic Analysis System ([PyMUSAS](https://ucrel.github.io/pymusas/)) to tag text so that you can extract token level semantic tags from the tagged text. PyMUSAS, is a rule based token and Multi Word Expression (MWE) semantic tagger. The tagger can support any semantic tagset, however the currently released tagset is for the UCREL Semantic Analysis System ([USAS](https://ucrel.lancs.ac.uk/usas/)) semantic tags. In addition to the USAS tags, you will also see the lemmas and Part-ofSpeech (POS) tags in the text. For English, the tagger also identifies and tags Multi Word Expressions (MWE), i.e., expressions formed by two or more words that behave like a unit such as 'South Australia'. See this blog [post](../posts/semantic-tagger) for more details.
 
 ### [Geolocation tools](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop)
 
@@ -31,7 +31,7 @@ These tools assist the processes of recognising placenames in historical documen
 
 ### [Keyword analysis](https://github.com/Australian-Text-Analytics-Platform/keyword-analysis)
 
-This notebook presents a Keyword Analysis tool to analyse words in a collection of corpora and identify whether certain words are over or under-represented in a particular corpus compared to their representation in the other corpora.
+This notebook presents a Keyword Analysis tool to analyse words in a collection of corpora and identify whether certain words are over or under-represented in a particular corpus compared to their representation in the other corpora. See this blog [post](../posts/keyword-analysis) for more details.
 
 ### [Document Similarity](https://github.com/Australian-Text-Analytics-Platform/document-similarity)
 
