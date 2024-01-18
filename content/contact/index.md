@@ -16,6 +16,6 @@ At the ATAP launch, we also announced a Graduate Digital Research Fellowship pro
 
 ## Contact us
 
-You can contact the Australian Text Analytics Platform by [email](mailto:info@atap.edu.au)
+You can contact the Australian Text Analytics Platform by [email](mailto:ldaca@uq.edu.au)
 
 We share a [Twitter account](https://twitter.com/LDaCA_Program) with the [Language Data Commons of Australia](https://www.ldaca.edu.au):<br>
