@@ -18,7 +18,7 @@ One answer is that there are six words; that is, there are six groups of charact
 
 There is a further distinction we may need to make which we can see if we consider another question:
 
-<center>Are <i>cat</i> and <i>cats</i> the same word?</center>
+Are _cat_ and _cats_ the same word?
 
 They are distinct types, and therefore must also be distinct as tokens. But we have an intuition that at some level they are related, that there is some more abstract item which underlies both of them. This concept is usually referred to as a **lemma** (there is more about this concept on the [Data Preparation](../data_prep) page).
 
